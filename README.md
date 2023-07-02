@@ -1,4 +1,6 @@
-### ✨✨ Hi, I am Monty Chen ✨✨
+### ✨✨ Hi, I am [Monty Chen](https://umiotter.com) ✨✨
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ec6d5ce8-0152-4e51-9937-e38133299014/deploy-status)](https://app.netlify.com/sites/umiotter/deploys)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=umiotter&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffffff&hide_title=true&hide_border=true" />
 
