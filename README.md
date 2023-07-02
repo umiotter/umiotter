@@ -7,7 +7,7 @@ I am a learning PhD student from China. I like open source and all interesting t
 - I like eating meat 🍖, playing 🎮, photo with 📷 and sleeping in 🛏️.
 
 
-#### Coding Languages
+### Coding Languages
 
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
@@ -20,8 +20,18 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-[![My Skills](https://skillicons.dev/icons?i=solidity,js,html,css,python)](https://skillicons.dev)
+Web3: [![Web3](https://skillicons.dev/icons?i=solidity,js,ts,html,css)](https://skillicons.dev)
+
+Machine Learning: [![MachineLearning](https://skillicons.dev/icons?i=py, matlab)](https://skillicons.dev)
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- languages:end -->
+
+
+### Frameworks and Tools
+
+### Interested
+
+[![Hobby](https://skillicons.dev/icons?i=ps,ae,pr,blender)](https://skillicons.dev)
