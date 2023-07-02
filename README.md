@@ -18,7 +18,9 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-![Web3](https://skillicons.dev/icons?i=solidity,js,ts,html,css)
+[![Web3](https://skillicons.dev/icons?i=solidity,js,ts,html,css)]()
+
+[![MachineLearning](https://skillicons.dev/icons?i=python,latex,matlab)]()
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
@@ -28,7 +30,9 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-![MachineLearning](https://skillicons.dev/icons?i=pytorch,tensorflow,matlab)
+[![Web3](https://skillicons.dev/icons?i=bootstrap,git,remix,vscode,linux,netlify)]()
+
+[![MachineLearning](https://skillicons.dev/icons?i=pytorch,tensorflow,matlab)]()
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
@@ -37,7 +41,7 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-[![Hobby](https://skillicons.dev/icons?i=ps,ae,pr,blender)](https://skillicons.dev)
+[![Hobby](https://skillicons.dev/icons?i=ps,ae,pr,blender)]()
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
