@@ -11,7 +11,19 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=umiotter&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Solidity.svg" alt="solidity" /></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" /></code>
+
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" /></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" /></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" /></code>
+
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="latex" /></code>
+
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
@@ -29,6 +41,7 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+https://avatars.githubusercontent.com/u/38917137?s=48&v=4
 [![Web3](https://skillicons.dev/icons?i=bootstrap,git,remix,vscode,linux,netlify,pytorch,tensorflow,matlab&perline=6)]()
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
