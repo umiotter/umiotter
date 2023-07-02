@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fspencerwooo)](https://github.com/umiotter)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=umiotter&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 <!--
 **umiotter/umiotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
