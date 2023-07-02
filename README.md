@@ -19,8 +19,6 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 ![Web3](https://skillicons.dev/icons?i=solidity,js,ts,html,css)
-
-![MachineLearning](https://skillicons.dev/icons?i=py,matlab)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
