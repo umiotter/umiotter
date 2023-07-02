@@ -20,9 +20,7 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code>
 [![My Skills](https://skillicons.dev/icons?i=solidity,js,html,css,python)](https://skillicons.dev)
-</code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
