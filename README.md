@@ -30,8 +30,6 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-![Web3](https://skillicons.dev/icons?i=hardhat,js,ts,html,css)
-
 ![MachineLearning](https://skillicons.dev/icons?i=pytorch,tensorflow,matlab)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
