@@ -1,25 +1,37 @@
 ### ✨✨ Hi, I am [Monty Chen](https://umiotter.com) ✨✨
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ec6d5ce8-0152-4e51-9937-e38133299014/deploy-status)](https://app.netlify.com/sites/umiotter/deploys)
+I am a learning PhD student from China. I like open source and all interesting things and want to try to do it.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=umiotter&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-
-- :sunglasses: Focusing on Web3 & Blockchain
+- :sunglasses: I'm currently focusing on Web3 & Blockchain, interned at [@Tencent](https://github.com/Tencent/)
 - :hammer: Creator of smart contract and frameworks
-- :camera: Photographer 
-- :meat_on_bone: Meat lover
+- I like eating meat 🍖, playing 🎮, photo with 📷 and sleeping in 🛏️.
 
-<!--
-**umiotter/umiotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Coding Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- github-stats:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=umiotter&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
+
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- languages:end -->
