@@ -51,7 +51,6 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-[![Hobby](https://skillicons.dev/icons?i=ps,ae,pr,blender&perline=6)]()
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" alt="matlab" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" alt="matlab" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" alt="matlab" /></code>
