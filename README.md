@@ -11,6 +11,14 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=umiotter&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
+
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Solidity.svg" alt="solidity" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" /></code>
@@ -20,14 +28,6 @@ I am a learning PhD student from China. I like open source and all interesting t
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-<!-- github-stats:end -->
-
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-[![Languages](https://skillicons.dev/icons?i=solidity,js,ts,html,css,python,latex,matlab&perline=6)]()
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
 <!-- languages:end -->
 
 
@@ -35,8 +35,14 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-https://avatars.githubusercontent.com/u/38917137?s=48&v=4
-[![Web3](https://skillicons.dev/icons?i=bootstrap,git,remix,vscode,linux,netlify,pytorch,tensorflow,matlab&perline=6)]()
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Remix-Dark.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Netlify-Dark.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
@@ -46,6 +52,10 @@ https://avatars.githubusercontent.com/u/38917137?s=48&v=4
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 [![Hobby](https://skillicons.dev/icons?i=ps,ae,pr,blender&perline=6)]()
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" alt="matlab" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" alt="matlab" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
