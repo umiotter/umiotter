@@ -11,18 +11,12 @@ I am a learning PhD student from China. I like open source and all interesting t
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Solidity.svg" alt="solidity" /></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" /></code>
-
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Solidity.svg" alt="solidity" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" /></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" /></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" /></code>
-
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="latex" /></code>
-
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
