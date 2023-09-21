@@ -1,4 +1,4 @@
-### ✨✨ Hi, I am [Menki Chen](https://umiotter.com) ✨✨
+### ✨✨ Hi, I am [Menki](https://umiotter.com) ✨✨
 
 I am a learning PhD student from China. I like open source and all exciting things and want to try it.
 
