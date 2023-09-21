@@ -19,11 +19,11 @@ I am a learning PhD student from China. I like open source and all exciting thin
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Solidity.svg" alt="solidity" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css" /></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="latex" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
 <!-- markdownlint-restore -->
@@ -35,14 +35,14 @@ I am a learning PhD student from China. I like open source and all exciting thin
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="pytorch" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" alt="tensorflow" /></code>
 <code><img height="20" src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" alt="hardhat" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Remix-Dark.svg" alt="remix" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Netlify-Dark.svg" alt="netlify" /></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="pytorch" /></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" alt="tensorflow" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
