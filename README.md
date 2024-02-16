@@ -1,6 +1,6 @@
-### ✨✨ Hi, I am [Menki](https://umiotter.com) ✨✨
+### ✨✨ Hi, I am Menki ✨✨
 
-I am a learning PhD student from China. I like open source and all exciting things and want to try it.
+I am a new grad PhD student from China. I like open source and all exciting things and want to try it.
 
 - :sunglasses: I'm currently focusing on AI & Web3 , interned at [@Tencent](https://github.com/Tencent/)
 - :hammer: Creator of machine learning and smart contracts frameworks
