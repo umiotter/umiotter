@@ -19,9 +19,9 @@ I am a PhD student from China. I like open source and all exciting things and wa
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="latex" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Solidity.svg" alt="solidity" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" /></code>
