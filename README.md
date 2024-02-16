@@ -1,9 +1,9 @@
 ### ✨✨ Hi, I am Menki ✨✨
 
-I am a new grad PhD student from China. I like open source and all exciting things and want to try it.
+I am a PhD student from China. I like open source and all exciting things and want to try it.
 
 - :sunglasses: I'm currently focusing on AI & Web3 , interned at [@Tencent](https://github.com/Tencent/)
-- :hammer: Creator of machine learning and smart contracts frameworks
+- :hammer: Creator of machine learning model and smart contracts.
 - I like eating meat 🍖, playing 🎮, photo with 📷 and sleeping in 🛏️.
 
 
@@ -19,13 +19,13 @@ I am a new grad PhD student from China. I like open source and all exciting thin
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="latex" /></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Solidity.svg" alt="solidity" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" /></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css" /></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="latex" /></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" alt="matlab" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
