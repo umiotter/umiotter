@@ -1,11 +1,14 @@
-### ✨✨ Hi, I am Menki ✨✨
+### ✨✨ Hi there, I am Menki ✨✨
 
-I am a PhD student from China. I like open source and all exciting things and want to try it.
+A coder, trader, and electronic waste collector.
 
-- :sunglasses: I'm currently focusing on AI & Web3 , interned at [@Tencent](https://github.com/Tencent/)
+- :sunglasses: I'm currently focusing on Applied AI.
 - :hammer: Creator of machine learning model and smart contracts.
 - I like eating meat 🍖, playing 🎮, photo with 📷 and sleeping in 🛏️.
 
+### Coding Metrics:  
+
+![Metrics](./github-metrics.svg)
 
 ### Coding Languages
 <!-- github-stats:start -->
