@@ -3,8 +3,6 @@
 A coder, trader, and electronic waste collector.
 
 - :sunglasses: I'm currently focusing on Applied AI.
-- :hammer: Creator of machine learning model and smart contracts.
-- I like eating meat 🍖, playing 🎮, photo with 📷 and sleeping in 🛏️.
 
 ### Coding Metrics:  
 
